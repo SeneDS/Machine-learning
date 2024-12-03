@@ -17,7 +17,7 @@ Le stacking (ou empilement) est une technique d’ensemble learning où plusieur
 - [7. Entraînement et évaluation des modèles](#7-entraînement-et-évaluation-des-modèles)
 - [8. Sélection et affichage du meilleur modèle](#8-sélection-et-affichage-du-meilleur-modèle)
 - [9. Sauvegarde et rechargement du meilleur modèle](#9-sauvegarde-et-rechargement-du-meilleur-modèle)
-- [10. Le StackingRegressor ?](#10-le-stackingregressor)
+- [10. Le StackingRegressor ?](#10-le-stackingRegressor)
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
