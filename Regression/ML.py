@@ -5,10 +5,10 @@ import streamlit as st
 import joblib
 
 # Charger le modèle SVR
-svr_model = joblib.load("SVR_pipeline.pkl")
+svr_model = joblib.load("Regression/SVR_pipeline.pkl")
 
 # Charger les données pour les options de saisie
-df = pd.read_csv("Données/salaries_cleaned.csv")
+df = pd.read_csv("Regression/Données/salaries_cleaned.csv")
 
 # Configuration de l'application Streamlit
 st.set_page_config(page_title='Prédictions de Salaire avec SVR', layout='wide', initial_sidebar_state='expanded')
