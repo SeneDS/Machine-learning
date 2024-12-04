@@ -2,7 +2,7 @@ Nous avons vu comment implémenter des modèles de régression et de classificat
 
 Le stacking (ou empilement) est une technique d’ensemble learning où plusieurs modèles sont combinés pour améliorer les performances globales. Les prédictions de plusieurs modèles de base (également appelés "modèles de niveau 0") sont utilisées comme caractéristiques d’entrée pour un modèle de "niveau 1", appelé métamodèle.
 
-*CF*[L'appli streamlit](https://machine-learning-edftkeykwjbfnr7dsab6cj.streamlit.app)
+*CF.* [L'appli streamlit](https://machine-learning-edftkeykwjbfnr7dsab6cj.streamlit.app)
 
 ---
 
