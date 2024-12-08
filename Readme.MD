@@ -1,3 +1,5 @@
+[les tests statistiques avec Natach](https://www.linkedin.com/posts/natacha-njongwa-yepnga_100joursdeml-lecoinstat-activity-7264901261139873792-Ygjy/?utm_source=share&utm_medium=member_desktop)
+
 Nous avons vu comment implémenter des modèles de régression et de classification, les évaluer, les comparer, et les intégrer dans des pipelines de feature engineering. Maintenant, explorons une méthode avancée appelée stacking.
 
 Le stacking (ou empilement) est une technique d’ensemble learning où plusieurs modèles sont combinés pour améliorer les performances globales. Les prédictions de plusieurs modèles de base (également appelés "modèles de niveau 0") sont utilisées comme caractéristiques d’entrée pour un modèle de "niveau 1", appelé métamodèle.
